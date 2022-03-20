@@ -1,4 +1,4 @@
 void tomasz_majewski (void)
 {
-    Tomasz Majewski
+     Tomasz Majewski
 }
